@@ -1,0 +1,2 @@
+# TrueLight_random_test
+真光考试座位打乱系统，用于生成打乱座位表及登分表

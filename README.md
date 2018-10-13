@@ -6,6 +6,7 @@
 ### 可移植到64位电脑使用，打包程序链接：
 链接：https://pan.baidu.com/s/1spM6CfPRXLIxL8HyV8ICHw 
 提取码：19n1
+
 ps：exe可执行程序文件较大，因为python把所有必要的工具包和Dll文件都放到了一起，这个可以脱离python环境，也就是到其他没有装python的电脑中去运行。
 
 ##### 自动生成三份Excel文件

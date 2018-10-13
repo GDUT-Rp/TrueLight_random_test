@@ -1,6 +1,7 @@
 # TrueLight_random_test
 ## 真光考试座位打乱系统，用于生成打乱座位表及登分表
 ## 学生成绩考试管理系统的一部分功能，生成考试座位表
+![image](https://github.com/GDUT-Rp/TrueLight_random_test/tree/master/show/e73262c87df883380036da729e2b8e6.png)
 ### 纯Python实现，打包成exe可执行程序
 ### 可移植到64位电脑使用，打包程序链接：
 

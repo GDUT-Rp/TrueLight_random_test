@@ -11,12 +11,12 @@
 ps：exe可执行程序文件较大，因为python把所有必要的工具包和Dll文件都放到了一起，这个可以脱离python环境，也就是到其他没有装python的电脑中去运行。
 
 ##### 自动生成三份Excel文件
-![image](https://github.com/GDUT-Rp/TrueLight_random_test/raw/master/show/Snipaste_2018-09-16_21-38-27.png)
+![image](https://img-blog.csdnimg.cn/d8dff9040b4e4f838a63b375c7c6abac.png)
 ##### 自动生成完整座位表文件
-![image](https://github.com/GDUT-Rp/TrueLight_random_test/raw/master/show/Snipaste_2018-09-16_21-40-05.png)
+![image](https://img-blog.csdnimg.cn/11f4bdb737f54169a33ad49196241b25.png)
 ##### 自动生成登分表文件
-![image](https://github.com/GDUT-Rp/TrueLight_random_test/raw/master/show/Snipaste_2018-09-16_21-40-26.png)
+![image](https://img-blog.csdnimg.cn/534448f05b5e4e41bda52fdf8e198c51.png)
 ##### 自动生成班级座位表文件
-![image](https://github.com/GDUT-Rp/TrueLight_random_test/raw/master/show/Snipaste_2018-09-16_21-41-16.png)
+![image](https://img-blog.csdnimg.cn/fcddaf8c3262443d856c2d7143f76078.png)
 
 
